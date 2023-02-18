@@ -1,0 +1,33 @@
+_repo: The-dawn-in-Russia_69996
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nevinson, Henry Woodd
+    aliases:
+    - Nevinson, H. W. (Henry Woodd)
+    - Nevinson, Henry W.
+    birthdate: 1856
+    deathdate: 1941
+    gutenberg_agent_id: '3828'
+    url: http://www.gutenberg.org/2009/agents/3828
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Nevinson
+description: ''
+gutenberg_issued: '2023-02-09'
+identifiers:
+  gutenberg: '69996'
+language: en
+pgterms:marc904: https://archive.org/details/dawninrussiaorsc00nevi
+pgterms:marc905: 20201115065626nevinson
+pgterms:marc906: '1906'
+pgterms:marc907: gb
+production_note: Peter Becker, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bHarper & brothers, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The dawn in Russia
+url: http://www.gutenberg.org/ebooks/69996
